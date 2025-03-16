@@ -1,0 +1,87 @@
+.ordertitle{
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 5px;
+    margin-top: 50px;
+    color: #7B482C;
+}
+.ordertitle1{
+    text-align: center;
+    letter-spacing: 5px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    color: #6B6141;
+}
+.orderbackground{
+    background-color: #DDDDDD;
+    margin:6% 8%;
+    padding:0px 15px 15px 15px;
+    max-width: 350px;
+    margin:auto;
+}
+/*訂單內容*/
+.order_check{
+    font-size: 20px;
+}
+.order_check_title{
+    padding-top: 20px;
+    padding-right: 30px;
+    font-size: 22px;
+    font-weight: bold;
+    vertical-align: sub;
+}
+.order_check_content{
+    padding-top: 20px;
+}
+.content1_title_word{
+    margin:0;
+}
+.order_check_content1{
+    border-bottom: 1px dashed black;
+}
+.order_check_content2{
+    padding-right: 20px;
+    font-weight: bold;
+}
+.pay{
+    text-decoration: none;
+    color:white;
+    letter-spacing: 3px;
+}
+.pay_btn{
+    border:none;
+    background: #7A7A69;
+    padding:5px 10px;
+    border-radius: 10px;
+}
+.confirm_btn{
+    background: #7A7A69;
+    padding:5px 10px;
+    border-radius: 10px;
+    border:none;
+    margin: 30px 30px 20px 30px;
+}
+.confirm{
+    text-decoration: none;
+    color:white;
+    letter-spacing: 3px;
+    font-size: 20px;
+}
+.confirm_btn1{
+    display: flex;
+    justify-content: center;
+}
+
+/*pay*/
+.order_check_content_text{
+    font-size: 14px;
+    width:160px;
+}
+.order_check_content_text1{
+    font-size: 14px;
+    width:40px;
+}
+.order_check_content_text2{
+    font-size: 14px;
+    width:50px;
+}

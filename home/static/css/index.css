@@ -1,0 +1,116 @@
+/*首頁*/
+#app_title{
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30px;
+    color: rgb(146, 108, 71);
+}
+
+#date_word, #login_word, #signup_word, #member_word{
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px;
+    color: #6b6141;
+}
+
+/*首頁*/
+#num, #break, #dinner{
+    color: #6b6141;
+    font-size: 20px;
+}
+label {
+    color: #6b6141;
+    display: block;
+    text-align: center;
+    font: 30px 'Fira Sans', sans-serif;
+    margin-top: 15px;
+}
+input {
+    margin: 0.4rem 0;
+
+}
+#calender{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+#start{
+    height: 50px;
+    width: 160px;
+    font-size: 25px;
+    color: #6b6141;
+}
+
+/*註冊*/
+#id, #email, #phone{
+    color: #6b6141;
+    font-size: 20px;
+}
+.mid_body{
+    width: 90%;
+    background-color: #e7e7e7;
+    border-radius: 10px;
+    margin: 50px auto;
+    padding: 10px;
+}
+.midmem_body{
+    width: 90%;
+    background-color: #c5b5b5;
+    border-radius: 10px;
+    margin: 100px auto;
+    padding: 10px;
+}
+#signupbtn{
+    --bs-btn-bg: #756b47;
+    --bs-btn-border-color: #756b47;
+    --bs-btn-active-bg: #94885b;
+    --bs-btn-active-border-color: #94885b;
+    --bs-btn-hover-bg: #94885b;
+    --bs-btn-hover-border-color: #94885b;
+    margin-bottom: 10px;
+}
+
+/*人員*/
+#name, #memid{
+    color: #6b6141;
+    font-size: 20px;
+}
+#mem_num{
+    color: #6b6141;
+    font-size: 25px;
+    margin-bottom: 1px;
+}
+#memadd, #membtn{
+    --bs-btn-bg: #756b47;
+    --bs-btn-border-color: #756b47;
+    --bs-btn-active-bg: #94885b;
+    --bs-btn-active-border-color: #94885b;
+    --bs-btn-hover-bg: #94885b;
+    --bs-btn-hover-border-color: #94885b;
+    margin-bottom: 10px;
+}
+
+/*登入*/
+#login_wordd{
+    font-size: 25px;
+    text-align: center;
+    margin-top: 30px;
+    color: #6b6141;
+}
+#log{
+    text-align: center;
+    margin-top: 100px;
+}
+.line_login{
+    background-color:transparent;
+    border: none;
+    margin-left: 30%;
+    margin-right: 10px;
+}
+.fb_login{
+    background-color:transparent;
+    border: none;
+    margin-right: 30%;
+    margin-left: 10px;
+}
